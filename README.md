@@ -7,18 +7,18 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [HH](https://www.bit.ly/lokeshsite)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.bit.ly/lokeshsite)
 
 - 💬 Ask me about **Javascript, Python, Java**
 
 - 📫 Reach me at **lokeshsekar005@gmail.com**
 
-- 📄 Want to Hire me [https://drive.google.com/file/d/1NMiKMqxGg_8qDzhA5m8cjH84mIPYRyWl/view?usp=sharing](https://drive.google.com/file/d/1NMiKMqxGg_8qDzhA5m8cjH84mIPYRyWl/view?usp=sharing)
+- 📄 Want to Hire me see my [Resume](https://drive.google.com/file/d/1NMiKMqxGg_8qDzhA5m8cjH84mIPYRyWl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lokeshs005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="lokeshs005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lokeshdroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="lokeshdroid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lokeshdroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leetcode.svg" alt="lokeshdroid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
