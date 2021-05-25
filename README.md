@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://www.bit.ly/lokeshsite](https://www.bit.ly/lokeshsite)
+- 👨‍💻 All of my projects are available at [HH](https://www.bit.ly/lokeshsite)
 
 - 💬 Ask me about **Javascript, Python, Java**
 
