@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **developing myself**
 
-- 🌱 I’m currently learning **React, Machine Learning**
+- 🌱 I’m currently learning **React, JQuery**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to work on **Product Based Company**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://lokeshdroid.github.io/)
 
